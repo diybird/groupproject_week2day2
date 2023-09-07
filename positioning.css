@@ -34,6 +34,6 @@ img {
 .rotated-image {
    position: absolute;
    top: 0;
-   left: 149px; /* Adjust this value as needed */
+   left: 149px; 
    transform: rotate(10deg);
 }
